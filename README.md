@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi Everyone 👋  I'm Alfareed Bin Alameen</b></h1>
 
 <h3 align="center"> Cloud Engineer Intern @ CloudSlize </h3>
-<img align="right" width="300" height="300" src="https://lottie.host/embed/b66459eb-96ac-4af5-beac-11f8ab9d7f4b/GJ0dqA2c0B.json">
+<img align="right" width="300" height="300" src="https://lottie.host/b66459eb-96ac-4af5-beac-11f8ab9d7f4b/GJ0dqA2c0B.json">
 
 <!--
 **Alfareed04/Alfareed04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
