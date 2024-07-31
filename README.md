@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi Everyone 👋  I'm Alfareed Bin Alameen</b></h1>
 
 <h3 align="center"> Cloud Engineer Intern @ CloudSlize </h3>
-<img align="right" width="300" height="300" src="https://www.esds.co.in/assets/images/public-cloud/scalable-secure-&-reliable-public-cloud.gif">
+<img align="right" width="500" height="300" src="https://www.esds.co.in/assets/images/public-cloud/scalable-secure-&-reliable-public-cloud.gif">
 
 
 <!--
