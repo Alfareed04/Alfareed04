@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi Everyone 👋  I'm Alfareed Bin Alameen</b></h1>
 
 <h3 align="center"> Cloud Engineer Intern @ CloudSlize </h3>
-<img align="right" width="200" height="200" src="https://www.esds.co.in/assets/images/public-cloud/scalable-secure-&-reliable-public-cloud.gif">
+<img align="right" width="200" height="200" src="https://cdnl.iconscout.com/lottie/premium/thumb/cloud-computing-4372871-3645006.mp4
 
 <!--
 **Alfareed04/Alfareed04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
