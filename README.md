@@ -2,7 +2,8 @@
 <h1 align="center"><b>Hi Everyone 👋  I'm Alfareed Bin Alameen</b></h1>
 
 <h3 align="center"> Cloud Engineer Intern @ CloudSlize </h3>
-<a href="https://icons8.com/illustrations/author/GrbQqWBEhaDS">Liam Moore</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+<img align="right" width="300" height="300" src="https://icons8.com/illustrations/illustration/3d-casual-life-cloud-data-synchronization--animated">
+
 
 <!--
 **Alfareed04/Alfareed04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
