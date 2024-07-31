@@ -2,8 +2,8 @@
 <h1 align="center"><b>Hi Everyone 👋  I'm Alfareed Bin Alameen</b></h1>
 
 <h3 align="center"> Cloud Engineer Intern @ CloudSlize </h3>
-<img align="right" width="200" height="200" src="https://cdnl.iconscout.com/lottie/premium/thumb/cloud-computing-4372871-3645006.mp4
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script><lottie-player src="https://lottie.host/b66459eb-96ac-4af5-beac-11f8ab9d7f4b/GJ0dqA2c0B.json" background="#FFFFFF" speed="1" style="align="right" width: 300px; height: 300px" loop controls autoplay direction="1" mode="normal"></lottie-player>
 <!--
 **Alfareed04/Alfareed04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
