@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - I am a driven Cloud Engineering Intern dedicated to mastering **Microsoft Azure**. At CloudSlize, I am enhancing my skills in deploying, managing, and optimizing Azure environments. I am enthusiastic about engaging in real-world projects and keen to apply my practical experience to contribute to cutting-edge cloud solutions. I look forward to learning from industry experts and utilizing my abilities to make a significant impact in the field.
 
 - 🔭 I’m currently working on **CloudSlize**
-- 🌱 I’m currently learning Cloud Services(Microsoft Azure), Terraform
+- 🌱 I’m currently learning Cloud Services **(Microsoft Azure), Terraform**
 
 - 💬 Ask me about ...
 - 📫 How to reach me :
